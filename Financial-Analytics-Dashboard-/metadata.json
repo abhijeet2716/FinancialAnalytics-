@@ -1,0 +1,6 @@
+{
+  "name": "Financial Analytics Dashboard",
+  "description": "Full-stack financial analytics dashboard featuring JWT authentication, revenue vs expenses trends, category breakdown, advanced search/filter/sort, paginated transactions, and configurable CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
